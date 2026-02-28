@@ -1,4 +1,4 @@
-# MetaVersion Manager (MVM)
+# Meta Version Manager (MVM)
 
 A portable, deterministic, corporate‑friendly version‑management system for polyglot developers.
 
